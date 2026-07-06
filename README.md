@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:22D3EE&height=220&section=header&text=Hariprasad%20Kasavajjala&fontSize=42&fontColor=E6EDF3&animation=fadeIn&fontAlignY=36&desc=Senior%20.NET%20%26%20Cloud%20Developer%20%C2%B7%20AI%2FLLM%20Tooling%20%C2%B7%20AWS%20%2B%20Azure&descAlignY=56&descSize=17" width="100%" alt="Hariprasad Kasavajjala — banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:22D3EE&height=200&section=header&text=Hariprasad%20Kasavajjala&fontSize=42&fontColor=E6EDF3&animation=fadeIn&fontAlignY=55" width="100%" alt="Hariprasad Kasavajjala — banner"/>
 
 <br/>
 
