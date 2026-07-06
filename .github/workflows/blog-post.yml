@@ -1,0 +1,20 @@
+name: Update Blog Posts
+
+on:
+  workflow_dispatch:
+  # Uncomment once a real RSS feed is set below, to run automatically:
+  # schedule:
+  #   - cron: "0 */12 * * *"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          # TODO: replace with a real RSS/Atom feed URL (e.g. a blog on the portfolio site)
+          feed_list: "https://hpkhariprasad.github.io/hari-portfolio/rss.xml"
+          max_post_count: 5
