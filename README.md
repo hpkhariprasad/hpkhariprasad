@@ -81,8 +81,8 @@ Over the last two years I've moved into **AI-driven engineering** — designing 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hpkhariprasad&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=E6EDF3" width="49%" alt="Hariprasad's GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpkhariprasad&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E6EDF3&langs_count=8" width="42%" alt="Most used languages"/>
+<img src="https://hpkhariprasad.vercel.app/api?username=hpkhariprasad&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=E6EDF3" width="49%" alt="Hariprasad's GitHub stats"/>
+<img src="https://hpkhariprasad.vercel.app/api/top-langs/?username=hpkhariprasad&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E6EDF3&langs_count=8" width="42%" alt="Most used languages"/>
 
 <br/>
 
@@ -99,19 +99,19 @@ Over the last two years I've moved into **AI-driven engineering** — designing 
 <div align="center">
 
 <a href="https://github.com/hpkhariprasad/RagEval.NET">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hpkhariprasad&repo=RagEval.NET&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=E6EDF3" width="48%" alt="RagEval.NET repository"/>
+  <img src="https://hpkhariprasad.vercel.app/api/pin/?username=hpkhariprasad&repo=RagEval.NET&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=E6EDF3" width="48%" alt="RagEval.NET repository"/>
 </a>
 <a href="https://github.com/hpkhariprasad/cross-cloud-ai-cost-advisor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hpkhariprasad&repo=cross-cloud-ai-cost-advisor&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=E6EDF3" width="48%" alt="Cross-Cloud AI Cost Advisor repository"/>
+  <img src="https://hpkhariprasad.vercel.app/api/pin/?username=hpkhariprasad&repo=cross-cloud-ai-cost-advisor&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=E6EDF3" width="48%" alt="Cross-Cloud AI Cost Advisor repository"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/hpkhariprasad/serverless-file-uploader">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hpkhariprasad&repo=serverless-file-uploader&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=E6EDF3" width="48%" alt="Serverless File Uploader repository"/>
+  <img src="https://hpkhariprasad.vercel.app/api/pin/?username=hpkhariprasad&repo=serverless-file-uploader&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=E6EDF3" width="48%" alt="Serverless File Uploader repository"/>
 </a>
 <a href="https://github.com/hpkhariprasad/serverless-content-moderation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hpkhariprasad&repo=serverless-content-moderation&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=E6EDF3" width="48%" alt="Serverless Content Moderation repository"/>
+  <img src="https://hpkhariprasad.vercel.app/api/pin/?username=hpkhariprasad&repo=serverless-content-moderation&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=E6EDF3" width="48%" alt="Serverless Content Moderation repository"/>
 </a>
 
 </div>
