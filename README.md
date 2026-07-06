@@ -86,7 +86,7 @@ Over the last two years I've moved into **AI-driven engineering** — designing 
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hpkhariprasad&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE" width="70%" alt="GitHub streak stats"/>
+<img src="https://streak-stats.demolab.com/?user=hpkhariprasad&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE" width="70%" alt="GitHub streak stats"/>
 
 </div>
 
