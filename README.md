@@ -16,8 +16,6 @@
   <a href="#snake">Contributions</a> ·
   <a href="#timeline">Experience</a> ·
   <a href="#highlights">Highlights</a> ·
-  <a href="#now-playing">Now Playing</a> ·
-  <a href="#blog">Blog</a> ·
   <a href="#activity">Activity</a> ·
   <a href="#contact">Contact</a>
 </p>
@@ -165,34 +163,6 @@ Over the last two years I've moved into **AI-driven engineering** — designing 
 - Resolved critical production issues via the TopCoder challenge platform; recipient of multiple internal POB awards.
 
 </div>
-
-<br/>
-<hr/>
-<br/>
-
-<h2 id="now-playing">🎧 Now Playing</h2>
-
-<div align="center">
-
-<!--
-  Placeholder — connect your Spotify account:
-  1. Go to https://spotify-github-profile.vercel.app/ and sign in with GitHub.
-  2. Connect Spotify, copy your generated UID.
-  3. Replace YOUR_SPOTIFY_USER_ID below.
--->
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=true&background_color=0d1117&bar_color=22D3EE&bar_color_cover=false" width="380" alt="Spotify now playing — connect your account to activate"/>
-
-</div>
-
-<br/>
-<hr/>
-<br/>
-
-<h2 id="blog">📝 Latest Blog Posts</h2>
-
-<!-- BLOG-POST-LIST:START -->
-- Connect a real RSS feed in `.github/workflows/blog-post.yml` (`feed_list` input) to auto-populate this section.
-<!-- BLOG-POST-LIST:END -->
 
 <br/>
 <hr/>
