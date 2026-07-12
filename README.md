@@ -171,7 +171,7 @@ Over the last two years I've moved into **AI-driven engineering** — designing 
 <h2 id="activity">📌 Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/hpkhariprasad/RagEval.NET/pull/5) in [hpkhariprasad/RagEval.NET](https://github.com/hpkhariprasad/RagEval.NET)
+1. 🚀 Published release [v1.1.0](https://github.com/hpkhariprasad/RagEval.NET/releases/tag/v1.1.0) in [hpkhariprasad/RagEval.NET](https://github.com/hpkhariprasad/RagEval.NET)
 <!--END_SECTION:activity-->
 
 <br/>
