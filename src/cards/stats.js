@@ -293,7 +293,7 @@ const renderStatsCard = (stats, options = {}) => {
     number_precision,
     locale,
     disable_animations = false,
-    rank_icon = "default",
+    rank_icon = "percentile",
     show = [],
   } = options;
 
