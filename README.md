@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=640&height=40&lines=8%2B+years+building+.NET+%2F+C%23+%2F+cloud+systems;RAG+%26+LLM-powered+tooling+on+Azure+OpenAI;Author+of+RagEval.NET+%E2%80%94+RAG+evaluation+for+.NET)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=640&height=40&lines=8.5%2B+years+building+.NET+%2F+C%23+%2F+cloud+systems;RAG+%26+LLM-powered+tooling+on+Azure+OpenAI;Author+of+RagEval.NET+%E2%80%94+RAG+evaluation+for+.NET)](https://git.io/typing-svg)
 
 <br/>
 
@@ -32,7 +32,7 @@
 
 <h2 id="about">💠 About</h2>
 
-Senior Software Engineer with **8 years** of experience designing and shipping scalable Windows, web, and cloud applications — currently at **NCR Atleos**, Hyderabad. Deep expertise in **.NET 8/10, WPF, ASP.NET Core, .NET MAUI**, and modernizing enterprise systems onto **Azure** and **AWS**.
+Senior Software Engineer with **8.5+ years** of experience designing and shipping scalable Windows, web, and cloud applications — currently at **NCR Atleos**, Hyderabad. Deep expertise in **.NET 8/10, WPF, ASP.NET Core, .NET MAUI**, and modernizing enterprise systems onto **Azure** and **AWS**.
 
 Over the last two years I've moved into **AI-driven engineering** — designing and orchestrating LLM workflows with the **OpenAI API, Semantic Kernel, LangChain**, and **Retrieval-Augmented Generation (RAG)**. That work led to [`RagEval.NET`](https://github.com/hpkhariprasad/RagEval.NET), a NuGet-published evaluation layer that brings LLM-as-judge scoring (Faithfulness, Answer Relevance, Context Precision/Recall) natively to the .NET RAG ecosystem.
 
