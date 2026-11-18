@@ -171,7 +171,7 @@ Over the last two years I've moved into **AI-driven engineering** — designing 
 <h2 id="activity">📌 Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1401](https://github.com/BehiSecc/awesome-claude-skills/pull/1401) in [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills)
+1. 🎉 Merged PR [#3](https://github.com/hpkhariprasad/Demoflick/pull/3) in [hpkhariprasad/Demoflick](https://github.com/hpkhariprasad/Demoflick)
 <!--END_SECTION:activity-->
 
 <br/>
